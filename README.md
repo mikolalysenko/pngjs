@@ -1,3 +1,5 @@
+Fork of lukeapage/pngjs that doesn't use the zlib backfill (so it works with browserify).
+
 [![Build Status](https://travis-ci.org/lukeapage/pngjs.svg?branch=master)](https://travis-ci.org/lukeapage/pngjs) [![Build status](https://ci.appveyor.com/api/projects/status/tb8418jql1trkntd/branch/master?svg=true)](https://ci.appveyor.com/project/lukeapage/pngjs2/branch/master) [![Coverage Status](https://coveralls.io/repos/lukeapage/pngjs2/badge.svg?branch=master&service=github)](https://coveralls.io/github/lukeapage/pngjs2?branch=master) [![npm version](https://badge.fury.io/js/pngjs.svg)](http://badge.fury.io/js/pngjs)
 
 pngjs
